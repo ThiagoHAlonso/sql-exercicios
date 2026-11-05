@@ -19,3 +19,4 @@ Trabalho em grupo, valendo 500 pontos, com as tabelas `curso` e `aluno` relacion
 ## Rodando os scripts
 
 Dá pra abrir qualquer um dos arquivos direto no MySQL Workbench e executar o script inteiro, ou rodar pelo terminal:
+mysql -u root -p < nome-do-arquivo.sql
